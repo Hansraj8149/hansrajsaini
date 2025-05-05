@@ -5,6 +5,22 @@
   🚀 Passionate about building high-performance cross-platform apps using React Native, Next.js & TypeScript.
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hansrajsaini8149/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hansrajsaini8149@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hansrajsaini.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 💼 Experience
@@ -33,13 +49,13 @@
 
 ## 💻 Projects
 
-**🧠 [MachineIQ](https://github.com/Hansrajsaini/MachineIQ) – SaaS AI Tool Platform**  
+**🧠 [MachineIQ](https://github.com/Hansrajsaini/MachineIQ)** – SaaS AI Tool Platform  
 *Feb 2024 – Mar 2024*  
 - Built using Next.js, TailwindCSS, ShadCN  
 - Integrated Clerk Auth & Stripe, reducing checkout abandonment by 30%  
 - **Live:** [machineiq.vercel.app](https://machineiq.vercel.app)
 
-**🌐 [Sociate](https://github.com/Hansrajsaini/Sociate) – Social Media App**  
+**🌐 [Sociate](https://github.com/Hansrajsaini/Sociate)** – Social Media App  
 *Mar 2023 – May 2023*  
 - ReactJS, NodeJS, MongoDB, ExpressJS  
 - Features: posting, comments, likes, following system  
@@ -58,20 +74,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-TypeScript • JavaScript • C/C++ • Python • Java • SQL • HTML/CSS
-
-**Frontend**  
-React.js • Next.js • React Native • Tamagui • TailwindCSS • ShadCN • Material UI • Sanity
-
-**Backend**  
-Node.js • Express.js • Prisma • PostgreSQL • MongoDB • REST APIs • WebSockets
-
-**DevOps & Tools**  
-Git • GitHub • Docker • AWS (S3, SES, SNS) • Monorepo • CI/CD • Postman
-
-**Design & Optimization**  
-Figma • Responsive UI • Performance Tuning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
@@ -105,5 +113,5 @@ Figma • Responsive UI • Performance Tuning
 ---
 
 <p align="center">
-  Let's build something amazing together ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Let's+build+something+amazing+%F0%9F%92%A1" />
 </p>
