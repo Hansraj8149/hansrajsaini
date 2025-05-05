@@ -1,70 +1,109 @@
-# Getting Started with Create React App
+<h1 align="center">Hi, I'm Hansraj Saini 👋</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <b>Full-Stack Developer • Mobile App Engineer • Problem Solver</b><br />
+  🚀 Passionate about building high-performance cross-platform apps using React Native, Next.js & TypeScript.
+</p>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 💼 Experience
 
-### `npm start`
+**🔹 Full-Stack Mobile Developer – Edgetrade**  
+*Nov 2024 – Present (Remote)*  
+- Developed a cross-platform mobile app for iOS & Android, reducing app load time by 40%.  
+- Built a back-office system to automate trade workflows, boosting efficiency by 30%.  
+- Implemented multilingual support, increasing global user engagement by 25%.  
+- **Stack:** React Native, Next.js, TailwindCSS, Express.js, PostgreSQL, AWS (S3, SES, SNS), TanStack, Valtio
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**🔹 Junior Software Engineer – Instient (Flyku App)**  
+*June 2024 – Present (Remote)*  
+- Enhanced UI performance by 35% for a health-tracking app.  
+- Built real-time video calling, GPS tracking, and remote logging.  
+- Integrated Bluetooth audio support and reduced video latency by 20%.  
+- **Stack:** React Native, Next.js, Tamagui, Video SDK, Expo Sensors, Victory Charts
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**🔹 Frontend Intern – PathCreators**  
+*May 2023 – Aug 2023 (Hyderabad)*  
+- Developed an AI-powered image annotation tool, improving labeling speed by 25%.  
+- Streamlined backend API communication, improving data handling efficiency by 40%.  
+- **Stack:** HTML, CSS, JavaScript, REST APIs
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Projects
 
-### `npm run build`
+**🧠 [MachineIQ](https://github.com/Hansrajsaini/MachineIQ) – SaaS AI Tool Platform**  
+*Feb 2024 – Mar 2024*  
+- Built using Next.js, TailwindCSS, ShadCN  
+- Integrated Clerk Auth & Stripe, reducing checkout abandonment by 30%  
+- **Live:** [machineiq.vercel.app](https://machineiq.vercel.app)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**🌐 [Sociate](https://github.com/Hansrajsaini/Sociate) – Social Media App**  
+*Mar 2023 – May 2023*  
+- ReactJS, NodeJS, MongoDB, ExpressJS  
+- Features: posting, comments, likes, following system  
+- Increased engagement with 40% more active users
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎓 Education
 
-### `npm run eject`
+**B.Tech – Computer Science and Engineering**  
+*Malla Reddy Engineering College, Hyderabad*  
+- CGPA: 8.05 / 10  
+- Graduated: June 2024
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Languages**  
+TypeScript • JavaScript • C/C++ • Python • Java • SQL • HTML/CSS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Frontend**  
+React.js • Next.js • React Native • Tamagui • TailwindCSS • ShadCN • Material UI • Sanity
 
-## Learn More
+**Backend**  
+Node.js • Express.js • Prisma • PostgreSQL • MongoDB • REST APIs • WebSockets
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**DevOps & Tools**  
+Git • GitHub • Docker • AWS (S3, SES, SNS) • Monorepo • CI/CD • Postman
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Design & Optimization**  
+Figma • Responsive UI • Performance Tuning
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🏆 Achievements
 
-### Analyzing the Bundle Size
+- ✅ Solved **500+ LeetCode** questions  
+- 🔥 LeetCode Rating: **1524**  
+- ⭐ 5-Star C++ Coder – HackerRank  
+- ⭐ 5-Star Problem Solver – HackerRank  
+- 🏅 Max CodeChef Rating: **1451**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 📚 Certifications
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Meta – *Intro to Front-End Development*  
+- Meta – *React Basics*  
+- University of Michigan – *Programming for Everybody (Python)*  
+- UC Santa Cruz – *C++ Programming Fundamentals*  
+- HKUST – *NodeJS, Express, MongoDB Backend Development*
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📬 Contact
 
-### Deployment
+- **Email:** hansrajsaini8149@gmail.com  
+- **LinkedIn:** [hansrajsaini8149](https://www.linkedin.com/in/hansrajsaini8149/)  
+- **GitHub:** [@Hansrajsaini](https://github.com/Hansrajsaini)  
+- **Portfolio:** [hansrajsaini.vercel.app](https://hansrajsaini.vercel.app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  Let's build something amazing together ✨
+</p>
